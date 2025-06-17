@@ -1,0 +1,6 @@
+git init
+git add test.txt
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Rungaron/08_Rungaroon_w01.git
+git push -u origin main
